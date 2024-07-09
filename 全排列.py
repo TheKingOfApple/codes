@@ -1,3 +1,5 @@
+#这并不能运行
+#it can't running!!!
 n = [1,2,3,4,5]
 answer = []
 i_number = []
